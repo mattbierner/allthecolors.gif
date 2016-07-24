@@ -1,0 +1,17 @@
+title: "allthecolors.gif"
+
+description: "Gifs with all the colors"
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    "documentation",
+    "images",
+    "images-array",
+    "images-h",
+    "*.txt",
+    "*.py",
+    "README",
+    "*.gif"
+]
