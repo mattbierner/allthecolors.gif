@@ -21,7 +21,7 @@ Collection of gifs which contain every [24-bit RGB color](https://en.wikipedia.o
 * File size is abut 250MB
 
 
-### [rainbow-stack-walk.gif(https://dl.dropboxusercontent.com/s/hbk7dats08f7mfb/rainbow-stack-walk.gif?dl=0)
+### [rainbow-stack-walk.gif](https://dl.dropboxusercontent.com/s/hbk7dats08f7mfb/rainbow-stack-walk.gif?dl=0)
 
 Same as `rainbow-stack.gif`, but treats RGB space as a cube and uses a space filling Hilbert curve to choose which colors to go to. Starts at either end of the curve and works inwards. This eliminates the jarring transitions seen in the other methods.
 
