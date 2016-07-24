@@ -31,7 +31,7 @@ In order to save space (ha!), all the included gif are very small and must be up
 
 ![](https://raw.githubusercontent.com/mattbierner/allthecolors.gif/master/documentation/stack-smooth.png)
 
-This is fine for `rainbow-array`, but you can instead use nearest neighbor upscaling for a Josef Albers-esque experience
+This is fine for `rainbow-array`, but you can instead use nearest neighbor upscaling for a more [Josef Albers-esque](https://en.wikipedia.org/wiki/Josef_Albers) experience
 
 ![](https://raw.githubusercontent.com/mattbierner/allthecolors.gif/master/documentation/stack-pixelated.png)
 
