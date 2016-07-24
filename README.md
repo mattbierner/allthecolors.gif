@@ -27,11 +27,11 @@ Same as `rainbow-stack.gif`, but treats RGB space as a cube and uses a space fil
 
 
 # Viewing
-In order to save space (ha!), all the included gif are very small and must be upscaled to view. When upscaling the image, most programs will automatically smooth out the resulting image:
+In order to save space (ha!), all the included gif are very small and must be upscaled to view. When upscaling, most programs will automatically smooth out the resulting image:
 
 ![](https://raw.githubusercontent.com/mattbierner/allthecolors.gif/master/documentation/stack-smooth.png)
 
-This is fine for `rainbow-array`, but you can instead use nearest neighbor upscaling for a more [Josef Albers-esque](https://en.wikipedia.org/wiki/Josef_Albers) experience
+This is fine for `rainbow-array`, but you can instead use nearest neighbor upscaling for a more [Josef Albers-esque](https://en.wikipedia.org/wiki/Josef_Albers) experience:
 
 ![](https://raw.githubusercontent.com/mattbierner/allthecolors.gif/master/documentation/stack-pixelated.png)
 
