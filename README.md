@@ -27,7 +27,7 @@ Collection of gifs which contain every [24-bit RGB color](https://en.wikipedia.o
 
 Same as `rainbow-stack.gif`, but treats RGB space as a cube and uses a space filling Hilbert curve to choose which colors to go to. Starts at either end of the curve and works inwards. This eliminates the jarring transitions seen in the other methods.
 
-### [rainbow-stack-long.gif](https://mattbierner.github.io/allthecolors.gif/rainbow-stack-long) ([file](https://dl.dropboxusercontent.com/s/ddlgp4ia0lji06s/rainbow-stack-long.gif?dl=0))
+### [rainbow-stack-max.gif](https://mattbierner.github.io/allthecolors.gif/rainbow-stack-long) ([file](https://dl.dropboxusercontent.com/s/ddlgp4ia0lji06s/rainbow-stack-max.gif?dl=0))
 
 Same as `rainbow-stack.gif`, but with the maximum delay between each frame (650 seconds). Resulting animation lasts 172 years.
 
